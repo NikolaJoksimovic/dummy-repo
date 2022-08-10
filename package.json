@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro-alternative.js",
+  "dependencies": {
+    "biskviit": "^1.0.1",
+    "encoding": "^0.1.12",
+    "fetch": "^1.1.0",
+    "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.21",
+    "psl": "^1.9.0",
+    "safer-buffer": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
